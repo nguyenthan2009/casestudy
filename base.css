@@ -1,0 +1,70 @@
+#score{
+    color: black;
+    position: absolute;
+    top:0;
+    right: 60%;
+}
+#start{
+    position: absolute;
+    bottom: 150px;
+    background-color: forestgreen;
+    left: 450px;
+    width: 90px;
+    height: 50px;
+    color:black;
+    border-radius: 3px;
+    border-color: blueviolet;
+    
+
+}
+#gameover{
+    position: absolute;
+    top:30%;
+    left: 400px;
+    background-color: darkkhaki;
+    width: 90px;
+    height: 50px;
+    display: none;
+    background-color: chocolate;
+    outline-style: none;
+
+}
+#a{
+    background-color: blue;
+    width: 900px;
+    height: 480px;
+    background-image: url(images/flapbird.jpg);
+    background-size: contain;
+}
+#name{
+    position: absolute;
+    top:0;
+    left: 700px;
+    background-color:green;
+    width: 200px;
+    height: 70px;
+    display: none;
+    text-align: center;
+}
+#restart{
+    position: absolute;
+    top: 30%;
+    left: 380px;
+    background-color: darkkhaki;
+    width: 200px;
+    height: 100px;
+    display: none;
+    background-color: darkseagreen;
+
+}
+#chonanh1{
+    width: 38px;
+    height: 26px;
+}
+#image{
+    position: absolute;
+    top:30px;
+    right: 100px;
+    width: 250px;
+    height: 150px;
+    background-color: aquamarine;
